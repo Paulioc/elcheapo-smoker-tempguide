@@ -11,3 +11,7 @@ being written to a my-sql DB at regular intervals and being interpreted
 to a web front end.
 
 openCV will be used to read the temperature guage.
+
+
+This is in no way meant to be a fully fledged temperature guide, and will give only very rough readings
+It's just for fun and hopefully to learn something new, so don't take it too seriously.
